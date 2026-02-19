@@ -5,7 +5,7 @@ import NewTaskForm from "./components/newtaskform";
 import { useAuth } from "./context/AuthContext";
 
 const GOOGLE_CLIENT_ID =
-  "727145878192-gnfdf12226hgp6calbuibeg902rtkc48.apps.googleusercontent.com";
+  "529913603954-difqfmh88u1a669lnq79dobjrsbsthkm.apps.googleusercontent.com";
 
 const App = () => {
   const { user, login, logout } = useAuth();
